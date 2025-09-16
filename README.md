@@ -1,6 +1,6 @@
 # MoneyPrinter V2
 
-> ♥︎ If you're interested in using the newer, better version, sign up at [shiori.ai](https://www.shiori.ai), an AI tool that combines all other AI tools into one. Use code `MONEYPRINTER` for 20% off 🫶.
+> ♥︎ **Sponsor**: The Best AI Chat App: [shiori.ai](https://www.shiori.ai)
 
 ---
 
@@ -13,8 +13,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/FujiwaraChoki/MoneyPrinterV2?style=for-the-badge)](https://github.com/FujiwaraChoki/MoneyPrinterV2/issues)
 [![GitHub stars](https://img.shields.io/github/stars/FujiwaraChoki/MoneyPrinterV2?style=for-the-badge)](https://github.com/FujiwaraChoki/MoneyPrinterV2/stargazers)
 [![Discord](https://img.shields.io/discord/1134848537704804432?style=for-the-badge)](https://dsc.gg/fuji-community)
-
-> Follow me on [X](https://x.com/DevBySami).
 
 An Application that automates the process of making money online.
 MPV2 (MoneyPrinter Version 2) is, as the name suggests, the second version of the MoneyPrinter project. It is a complete rewrite of the original project, with a focus on a wider range of features and a more modular architecture.
